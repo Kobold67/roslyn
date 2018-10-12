@@ -10,12 +10,6 @@
           ]
         },
         {
-          "container": "DDRIT.RPS.Xaml",
-          "testCases": [
-            "DDRIT.RPS.Xaml.BuildAndDebugTests.UAP_BuildAndDebug"
-          ]
-        },
-        {
           "container": "WinForms",
           "testCases": [
             "WinForms.OptProfTests.winforms_largeform_vb",
@@ -51,12 +45,6 @@
           ]
         },
         {
-          "container": "DDRIT.RPS.Xaml",
-          "testCases": [
-            "DDRIT.RPS.Xaml.BuildAndDebugTests.UAP_BuildAndDebug"
-          ]
-        },
-        {
           "container": "WinForms",
           "testCases": [
             "WinForms.OptProfTests.winforms_largeform_vb",
@@ -81,12 +69,6 @@
           ]
         },
         {
-          "container": "DDRIT.RPS.Xaml",
-          "testCases": [
-            "DDRIT.RPS.Xaml.BuildAndDebugTests.UAP_BuildAndDebug"
-          ]
-        },
-        {
           "container": "WinForms",
           "testCases": [
             "WinForms.OptProfTests.winforms_largeform_vb",
@@ -108,12 +90,6 @@
           "container": "DDRIT.RPS.CSharp",
           "testCases": [
             "DDRIT.RPS.CSharp.CSharpTest.EditingAndDesigner"
-          ]
-        },
-        {
-          "container": "DDRIT.RPS.Xaml",
-          "testCases": [
-            "DDRIT.RPS.Xaml.BuildAndDebugTests.UAP_BuildAndDebug"
           ]
         },
         {
